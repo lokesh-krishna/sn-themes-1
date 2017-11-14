@@ -1,9 +1,9 @@
 :root {
-  --primary-bg-color: #002b36;
-  --secondary-bg-color: #073642;
-  --tertiary-bg-color: #073642;
+  --primary-bg-color: #263238;
+  --secondary-bg-color: #2E3C43;
+  --tertiary-bg-color: #314549;
 
-  --editor-bg-color: #002630;
+  --editor-bg-color: #263238;
 
   --border-color: rgba(238, 232, 213, 0.1);
   --accessory-bg-color: #073642;
@@ -12,19 +12,19 @@
   --menu-section-sep-color: rgba(238, 232, 213, 0.1);
   --menu-item-sep-color: rgba(238, 232, 213, 0.1);
 
-  --ui-text-color: #839496;
-  --cell-text-color: #93a1a1;
-  --link-color: #268bd2;
+  --ui-text-color: #B2CCD6;
+  --cell-text-color: #546E7A;
+  --link-color: #82AAFF;
 
-  --editor-text-color: #839496;
-  --footer-link-color: #93a1a1;
+  --editor-text-color: #B2CCD6;
+  --footer-link-color: #EEFFFF;
 
-  --blue-color: #268bd2;
-  --green-color: #859900;
-  --orange-color: #cb4b16;
-  --violet-color: #6c71c4;
-  --cyan-color: #2aa198;
-  --magenta-color: #d33682;
+  --blue-color: #82AAFF;
+  --green-color: #C3E88D;
+  --orange-color: #F78C6C;
+  --violet-color: #E040FB;
+  --cyan-color: #89DDFF;
+  --magenta-color: #C792EA;
 
   --monospace-font: Hack, monospace;
 }
